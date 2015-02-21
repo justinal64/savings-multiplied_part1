@@ -30,6 +30,7 @@ Colors:
 -  Medium Blue Text: #2A959E
 -  Light Teal: #CFEFEE
 -  Bright Pink: #E9168C
+-  Light Pink: #F3CECD
 -  Bright Purple: #6F308B
 -  Dark Purple: #6F1549
 
