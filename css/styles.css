@@ -1,0 +1,163 @@
+body {
+    background-color: #D5F1F0;
+    width: 100%;
+    margin: 0px;
+}
+
+.nav_background {
+    position: relative;
+    background-color: #F3CECD;
+    top: 18em;
+}
+
+ul.nav {
+    width:70%;
+    margin:0 auto;
+    padding:0;
+    list-style:none;
+    text-align:center;
+}
+.nav li {
+    display:inline-block;
+    width:15%;
+    margin:0;
+    padding:0;
+}
+.nav a {
+    text-align:center;
+    padding:12px 0 13px 0;
+    margin:0;
+    display:block;
+}
+
+.login {
+    width:80%;
+    list-style-type: none;
+}
+
+.login ul {
+    float: right;
+    position: relative;
+    top: 1.8em;
+}
+
+.login li {
+    display: inline-block;
+}
+
+.savings_multipled_logo {
+    display: inline-block;
+}
+
+.content {
+    width: 100%;
+    margin: auto;
+}
+
+.inner_content {
+    width: 65%;
+    background-color: #fff;
+    margin: auto;
+    margin-top: 4em;
+    /*text-align: center;*/
+}
+
+.display_type {
+    display: inline-block;
+}
+
+.div_width {
+    width: 49%;
+    display: inline-block;
+}
+
+.div_width_buttons {
+    position: relative;
+    top: -5em;
+}
+
+.div_width_buttons input {
+    margin: 1em;
+}
+
+.savings_multipled_logo img {
+    position: relative;
+    top: -4em;
+}
+
+.tagline {
+    position: relative;
+    top: -4em;
+    left: -2em;
+}
+
+.savings_multipled_logo img {
+    position: relative;
+    top: -2.5em;
+}
+
+.div_width_left {
+    width: 58%;
+    display: inline-block;
+}
+
+.div_width_right {
+    width: 38%;
+    display: inline-block;
+}
+
+.lower_margin {
+    margin: 1em 1em 1em 1em;
+}
+
+.lower_content_width span {
+    position: relative;
+    top: -1em;
+    font-size: x-large;
+}
+
+.lower_content_width h2 {
+    margin-top: 0px;
+    margin-bottom: 1.5em;
+}
+
+.shop_now {
+    position: relative;
+    top: -7em;
+}
+
+.tree {
+    top: -2em;
+    position: relative;
+    float: right;
+}
+
+.dotted_line {
+    background-image:url("../images/homepage/dotted_line_44x9.png");
+    background-repeat: repeat-x;
+    height: 15px;
+}
+
+.callout img {
+    width: 24%;
+}
+
+.footer {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.footer_links li {
+    width: 14%;
+    list-style-type: none;
+    display: inline-block;
+    border-right:solid 1px #fff;
+}
+
+.divider {
+    /*position: absolute;*/
+    right:-1px;
+    top:2px;
+}
+
+
